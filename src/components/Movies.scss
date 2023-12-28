@@ -1,0 +1,9 @@
+.movies {
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    background: linear-gradient(#2d2d2d, #2259bf);
+    padding: 80px;
+    min-height: 100vh;
+    gap: 30px;
+  }
